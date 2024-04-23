@@ -51,7 +51,9 @@ sudo apt-get install python3-pip -y          # 2. Install Required Packages
 
 sudo pip3 install -U pip          # 3. Upgrade Pip
 
-git clone [[https://github.com/Infamous-Hydra/YaeMiko](https://github.com/PixelDreamTeam/Nahida-Robot)](https://github.com/PixelDreamTeam/Nahida-Robot && cd Nahida-Robot         # 4. Clone the Repository
+git clone https://github.com/PixelDreamTeam/Nahida-Robot && cd Nahida-Robot
+
+# 4. Clone the Repository
 
 pip3 install -U -r requirements.txt          # 5. Install Required Packages
 
