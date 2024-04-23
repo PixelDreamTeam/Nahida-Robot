@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+YAE+ダ+MIKO+」+──;An+Advanced+Group+Management+Bot.&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「NAHIDA」+──;An+Advanced+Group+Management+Bot.&width=600&height=180">
 </div>
 
 # ⚙️ INSIDER
