@@ -77,7 +77,7 @@ python3 -m Mikobot         # 8. Run the Bot
     </a>
 </p>
 
-<h1 align="center"><img src="./.github/yae-miko.gif" /></h1>
+<h1 align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvoiyKGwuW71CTgZ4gP7qRpJpQzscpXaV80LAVNu164BF9AahecgGJ00&s=10" /></h1>
 
 ## CREDITS
 + [PaulSonOfLars](https://github.com/PaulSonOfLars)
