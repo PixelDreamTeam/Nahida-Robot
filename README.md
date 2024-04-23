@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg" width="600">
+  <img src="https://telegra.ph/file/02c3abd53e810a92d2f20.jpg" width="600">
 </div>
 
 <div align="center">
@@ -51,7 +51,7 @@ sudo apt-get install python3-pip -y          # 2. Install Required Packages
 
 sudo pip3 install -U pip          # 3. Upgrade Pip
 
-git clone https://github.com/Infamous-Hydra/YaeMiko && cd YaeMiko           # 4. Clone the Repository
+git clone [https://github.com/Infamous-Hydra/YaeMiko](https://github.com/PixelDreamTeam/Nahida-Robot && cd Nahida-Robot         # 4. Clone the Repository
 
 pip3 install -U -r requirements.txt          # 5. Install Required Packages
 
@@ -67,7 +67,7 @@ python3 -m Mikobot         # 8. Run the Bot
 
 <h1 align="center">Deploy on Heroku</h1>
 
-<p align="center">Click the button below to deploy YAE ダ MIKO on Heroku and enjoy its enhanced features and user-friendly interface!</p>
+<p align="center">Click the button below to deploy Nahida on Heroku and enjoy its enhanced features and user-friendly interface!</p>
 
 <p align="center">
     <a href="https://heroku.com/deploy?template=https://github.com/Infamous-Hydra/YaeMiko">
@@ -83,6 +83,6 @@ python3 -m Mikobot         # 8. Run the Bot
 + [TheHamkerCat](https://github.com/TheHamkerCat) > Python-Arq
 + [ProjectCodeX](https://github.com/Team-ProjectCodeX) > Modules
 
-Others in the commit history and files. If anything is missing, feel free to  [![gmail](https://img.shields.io/badge/mail-Here-red?style=for-the-badge&logo=gmail)](mailto:makandu2054@gmail.com)  or submit a pull request.
+Others in the commit history and files. If anything is missing, feel free to  [![gmail](https://img.shields.io/badge/mail-Here-red?style=for-the-badge&logo=gmail)](mailto:ryuujixd62@gmail.com)  or submit a pull request.
 
-> Try this bot [@YaeMiko_Roxbot](https://t.me/YaeMiko_Roxbot); it's made with this repository for demonstration purposes.
+> Try this bot [@NahidaX_robot](https://t.me/NahidaX_robot); it's made with this repository for demonstration purposes.
